@@ -14,16 +14,14 @@ MySQL Workbench
  ┃ ┣ 📄 create.sql
  ┃ ┣ 📄 insert.sql
  ┃ ┗ 📄 queries.sql
-
  ┣ 📂 escola
  ┃ ┣ 📄 create.sql
  ┃ ┣ 📄 insert.sql
  ┃ ┗ 📄 queries.sql
-
  ┗ 📂 rh
-   ┣ 📄 create.sql
-   ┣ 📄 insert.sql
-   ┗ 📄 queries.sql
+ ┣ 📄 create.sql
+ ┣ 📄 insert.sql
+ ┗ 📄 queries.sql
 
 🛒 Projeto 1: Sistema de Produtos (Mercado Livre)
 Banco de dados: db_mercado_livre : simula o cadastro e gerenciamento de produtos de um e-commerce.
