@@ -9,6 +9,7 @@ MySQL
 MySQL Workbench
 
 📁 Estrutura do repositório
+
 📦 banco-de-dados
  ┣ 📂 mercado-livre
  ┃ ┣ 📄 create.sql
